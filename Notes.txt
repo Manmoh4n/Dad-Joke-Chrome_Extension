@@ -1,0 +1,3 @@
+manifest.json :  In this file we define the properties of extension
+
+icanhazdadjoke : This Api is used for calling a random joke .
